@@ -2,9 +2,9 @@
 <h3 align="center">A Computer Science Student</h3><br /><br />
 
 
-- 🌱 I’m currently learning **React, Pygame, PostgresSQL, C#, Springboot**
+- 🌱 I’m currently learning React, Pygame, PostgresSQL, C#, Springboot
 
-- 👯 I’m looking to collaborate on [Web Projects](Game Projects)
+- 👯 I’m looking to collaborate on Web Projects Game Projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/GuzhanLiang](https://github.com/GuzhanLiang)
 
