@@ -8,7 +8,7 @@
 
 <h1>- 👨‍💻 All of my projects are available at https://github.com/GuzhanLiang<h1>
 
-<h1>- 📫 How to reach me **guzhanliang1@gmail.com**<h1>
+<h1>- 📫 How to reach me guzhanliang1@gmail.com<h1>
 
 
 
