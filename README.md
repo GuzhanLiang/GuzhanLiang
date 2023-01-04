@@ -6,7 +6,7 @@
 
 <h1>- 👯 I’m looking to collaborate on Web Projects Game Projects<h1>
 
-<h1>- 👨‍💻 All of my projects are available at [https://github.com/GuzhanLiang](https://github.com/GuzhanLiang)<h1>
+<h1>- 👨‍💻 All of my projects are available at https://github.com/GuzhanLiang<h1>
 
 <h1>- 📫 How to reach me **guzhanliang1@gmail.com**<h1>
 
